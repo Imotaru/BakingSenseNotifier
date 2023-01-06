@@ -4,10 +4,12 @@ A GUI to order meals on https://bakingsense.net/ easily and get a notification w
 
 # Setup
 
-Run these commands
-
-	pip install webbot
-	pip install playsound
+Make sure you have python 3 and the following packages installed:
+ - datetime
+ - tkinter
+ - webbot
+ - playsound
+ - functools
 	
 input your username and password in settings.txt
 
