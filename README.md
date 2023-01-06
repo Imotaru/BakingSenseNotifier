@@ -1,5 +1,9 @@
 # BakingSenseNotifier
 
+A GUI to order meals on https://bakingsense.net/ easily and get a notification when they arrive
+
+# Setup
+
 Run these commands
 
 	pip install webbot
