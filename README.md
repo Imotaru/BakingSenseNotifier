@@ -10,7 +10,5 @@ Make sure you have python 3 and the following packages installed:
  - webbot
  - playsound
  - functools
-	
-input your username and password in settings.txt
 
 Run bsnotifier.bat
